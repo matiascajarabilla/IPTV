@@ -62,4 +62,215 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png",Canal Encuentro
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 
-
+#EXTINF:-1,UK:  Good Food
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4544.ts
+#EXTINF:-1,UK: 3e
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4656.ts
+#EXTINF:-1,UK: 4Seven
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4735.ts
+#EXTINF:-1,UK: 5Star
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4657.ts
+#EXTINF:-1,UK: 5USA
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4650.ts
+#EXTINF:-1,UK: Alibi
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4658.ts
+#EXTINF:-1,UK: AMC FROM BT
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4648.ts
+#EXTINF:-1,UK: At The Races
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4660.ts
+#EXTINF:-1,UK: Baby TV
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4515.ts
+#EXTINF:-1,UK: BBC 4 HD
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4662.ts
+#EXTINF:-1,UK: BBC ALBA
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4647.ts
+#EXTINF:-1,UK: BBC EARTH HD
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4743.ts
+#EXTINF:-1,UK: BBC Parliament
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4646.ts
+#EXTINF:-1,UK: BBC Three HD
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4517.ts
+#EXTINF:-1,UK: BBC TWO HD
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4661.ts
+#EXTINF:-1,UK: BBC World News
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4736.ts
+#EXTINF:-1,UK: BBC World News(1)
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4520.ts
+#EXTINF:-1,UK: BET
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4645.ts
+#EXTINF:-1,UK: Boomerang
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4521.ts
+#EXTINF:-1,UK: CBBC
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4518.ts
+#EXTINF:-1,UK: Cbeebies
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4598.ts
+#EXTINF:-1,UK: CBS Action
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4527.ts
+#EXTINF:-1,UK: CBS Drama
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4528.ts
+#EXTINF:-1,UK: CBS reality
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4529.ts
+#EXTINF:-1,UK: Challenge   1
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4673.ts
+#EXTINF:-1,UK: Channel 4
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4644.ts
+#EXTINF:-1,UK: Channel 4 HD
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4643.ts
+#EXTINF:-1,UK: CHANNEL 5
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4642.ts
+#EXTINF:-1,UK: CHANNEL 5 FHD
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4641.ts
+#EXTINF:-1,UK: CNBC Europe
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4640.ts
+#EXTINF:-1,UK: CNN
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4571.ts
+#EXTINF:-1,UK: Comedy Central Extra   1
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4675.ts
+#EXTINF:-1,UK: Crime & Investigiation
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4653.ts
+#EXTINF:-1,UK: Crime investigation  1
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4676.ts
+#EXTINF:-1,UK: Dave
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4573.ts
+#EXTINF:-1,UK: DISCOVERY
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4530.ts
+#EXTINF:-1,UK: Discovery   1
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4677.ts
+#EXTINF:-1,UK: Discovery History
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4531.ts
+#EXTINF:-1,UK: Discovery History  1
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4678.ts
+#EXTINF:-1,UK: Discovery Science
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4532.ts
+#EXTINF:-1,UK: Discovery Science  1
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4679.ts
+#EXTINF:-1,UK: Discovery Shed
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4533.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4534.ts
+#EXTINF:-1,UK: Disney
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4535.ts
+#EXTINF:-1,UK: Disney Channel   1
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4680.ts
+#EXTINF:-1,UK: Disney Junior
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4536.ts
+#EXTINF:-1,UK: Disney XD
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4537.ts
+#EXTINF:-1,UK: Disney XD   1
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4681.ts
+#EXTINF:-1,UK: DMax
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4538.ts
+#EXTINF:-1,UK: Drama
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4539.ts
+#EXTINF:-1,UK: E!
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4682.ts
+#EXTINF:-1,UK: E!    1
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4683.ts
+#EXTINF:-1,UK: E!(1)
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4540.ts
+#EXTINF:-1,UK: E4
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4541.ts
+#EXTINF:-1,UK: FOX News
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4639.ts
+#EXTINF:-1,UK: gold
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4543.ts
+#EXTINF:-1,UK: Golf Channel
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4609.ts
+#EXTINF:-1,UK: Good Food
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4690.ts
+#EXTINF:-1,UK: H2
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4591.ts
+#EXTINF:-1,UK: HBO 1
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4737.ts
+#EXTINF:-1,UK: HBO 2
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4738.ts
+#EXTINF:-1,UK: History
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4597.ts
+#EXTINF:-1,UK: History  1
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4691.ts
+#EXTINF:-1,UK: Home & Health
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4545.ts
+#EXTINF:-1,UK: Home&Health   1
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4692.ts
+#EXTINF:-1,UK: Horror Channel   1
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4693.ts
+#EXTINF:-1,UK: ID
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4655.ts
+#EXTINF:-1,UK: ID   1
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4694.ts
+#EXTINF:-1,UK: Investigation Discovery
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4638.ts
+#EXTINF:-1,UK: ITV be
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4547.ts
+#EXTINF:-1,UK: ITV ENCORE
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4637.ts
+#EXTINF:-1,UK: ITV1
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4695.ts
+#EXTINF:-1,UK: ITV2
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4696.ts
+#EXTINF:-1,UK: ITV3
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4697.ts
+#EXTINF:-1,UK: ITV4
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4698.ts
+#EXTINF:-1,UK: KERRANG
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4636.ts
+#EXTINF:-1,UK: KISS UK
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4635.ts
+#EXTINF:-1,UK: LFC TV
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4699.ts
+#EXTINF:-1,UK: Life time
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4576.ts
+#EXTINF:-1,UK: London Live
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4548.ts
+#EXTINF:-1,UK: Magic
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4596.ts
+#EXTINF:-1,UK: Mototrs TV
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4580.ts
+#EXTINF:-1,UK: Movies 4 Men
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4634.ts
+#EXTINF:-1,UK: MTV
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4595.ts
+#EXTINF:-1,UK: MTV   1
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4700.ts
+#EXTINF:-1,UK: MTV Hits
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4744.ts
+#EXTINF:-1,UK: MTV Music(1)
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4745.ts
+#EXTINF:-1,UK: MTV Rocks
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4746.ts
+#EXTINF:-1,UK: Music Vox TV
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4747.ts
+#EXTINF:-1,UK: MUTV
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4701.ts
+#EXTINF:-1,UK: Nat Geo Graphic
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4581.ts
+#EXTINF:-1,UK: Nat Geo Wild
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4702.ts
+#EXTINF:-1,UK: NATGEO WILD
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4590.ts
+#EXTINF:-1,UK: National Geographic
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4592.ts
+#EXTINF:-1,UK: Nick Jr
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4549.ts
+#EXTINF:-1,UK: Nick Jr  1
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4704.ts
+#EXTINF:-1,UK: Nick Jr Too
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4703.ts
+#EXTINF:-1,UK: Nickelodeon
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4705.ts
+#EXTINF:-1,UK: Nickelodeon   1
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4706.ts
+#EXTINF:-1,UK: Nicktoons
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4550.ts
+#EXTINF:-1,UK: Pick(1)
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4519.ts
+#EXTINF:-1,UK: QUEST
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4633.ts
+#EXTINF:-1,UK: Racing UK
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4708.ts
+#EXTINF:-1,UK: Real Lives
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4632.ts
+#EXTINF:-1,UK: RTE One
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4709.ts
+#EXTINF:-1,UK: RTE Two
+http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4710.ts
