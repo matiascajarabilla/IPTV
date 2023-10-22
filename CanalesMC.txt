@@ -62,9 +62,26 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png",Canal Encuentro
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 
-#EXTINF:-1,UK: CNN News
-http://iptv.4ktezz.top:8080/starsat100cnx/hTx8r3WbLr/25155
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RSYpitC.jpg" group-title="",BBC London
+http://190.2.154.164/TV2812
 
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4709.ts
-#EXTINF:-1,UK: RTE Two
-http://62.112.11.66:25461/live/urjqrxef/wd38WeY0e8/4710.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Zv7uKd1.jpg" group-title="",BBC Two
+http://190.2.154.164/TV2813
+
+#EXTINF:-1 tvg-id="Box Hits UK" tvg-name="Box Hits UK" tvg-logo="https://i.imgur.com/iv85GCc.png" group-title="Music",Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/2KjJq8r.jpg" group-title="Music",BritAsia TV
+https://a.jsrdn.com/broadcast/22693_f4GTv8Jk_hi/-0800/c.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KFWIXZx.png" group-title="",British Muslim TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/vJzaYuq.jpg" group-title="",Channel 4
+http://190.2.154.164/TV2808
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9F7xF90.png" group-title="",Channel 4 More
+http://190.2.154.164/TV2810
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4BhOgFs.jpg" group-title="",Channel 4E
+http://190.2.154.164/TV2811
