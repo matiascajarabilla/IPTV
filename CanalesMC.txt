@@ -14,6 +14,7 @@ https://g1.vxral-hor.transport.edge-access.net/a15/ngrp:a24-100056_all/a24-10005
 https://ythlsgo.onrender.com/channel/UCFgk2Q2mVO1BklRQhSv6p0w.m3u8
 
 #EXTINF:-1 tvg-id="AR - C5N" tvg-name="C5N HD (ARG)" tvg-logo="http://hidra.live:80/images/bfa0e2b6f1134e36360a1261eee7eb9c.png" group-title="Argentina",C5N HD (ARG)
+http://hplay.xyz:80/live/LVH60Ml8Hc/O4XSkHm6Yj/43344.m3u8
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://i.imgur.com/vFwPhPS.png",TN Todo Noticias
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
